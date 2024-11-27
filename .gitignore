@@ -1,0 +1,13 @@
+.env
+.venv
+env
+venv
+requirements.in
+data
+data_personal
+config.json
+__pycache__
+tmp.session
+task.pdf
+tmp.session
+.DS_Store
